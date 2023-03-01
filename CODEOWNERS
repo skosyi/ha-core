@@ -826,6 +826,8 @@ build.json @home-assistant/supervisor
 /tests/components/nam/ @bieniu
 /homeassistant/components/nanoleaf/ @milanmeu
 /tests/components/nanoleaf/ @milanmeu
+/homeassistant/components/nanoleaf_panels/ @skosyi
+/tests/components/nanoleaf_panels/ @skosyi
 /homeassistant/components/neato/ @dshokouhi @Santobert
 /tests/components/neato/ @dshokouhi @Santobert
 /homeassistant/components/nederlandse_spoorwegen/ @YarmoM

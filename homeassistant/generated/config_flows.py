@@ -311,6 +311,7 @@ FLOWS = {
         "mystrom",
         "nam",
         "nanoleaf",
+        "nanoleaf_panels",
         "neato",
         "nest",
         "netatmo",
