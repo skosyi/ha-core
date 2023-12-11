@@ -578,10 +578,16 @@ ZEROCONF = {
         {
             "domain": "nanoleaf",
         },
+        {
+            "domain": "nanoleaf_panels",
+        },
     ],
     "_nanoleafms._tcp.local.": [
         {
             "domain": "nanoleaf",
+        },
+        {
+            "domain": "nanoleaf_panels",
         },
     ],
     "_nut._tcp.local.": [
